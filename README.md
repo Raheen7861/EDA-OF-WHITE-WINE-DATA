@@ -1,0 +1,2 @@
+# EDA-OF-WHITE-WINE-DATA
+The Wine Quality dataset consists of white wine samples. The inputs include objective tests (e.g. pH values) and the output is based on sensory data (median of at least 3 evaluations made by wine experts). Each expert graded the wine quality between 0 (very bad) and 10 (very excellent). This analysis is to understand better what white wine features (variables 1-11) may have most impact on white wine good or bad quality (variable 12).
